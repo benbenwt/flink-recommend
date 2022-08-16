@@ -1,3 +1,0 @@
-*.sql linguist-language=JAVA
-*.java linguist-language=JAVA
-*.class linguist-language=JAVA
